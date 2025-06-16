@@ -1,0 +1,82 @@
+[
+  {
+    "id_cliente": "1098456123",
+    "fecha": "2024-06-01",
+    "descripcion": "El internet se cae constantemente desde el fin de semana.",
+    "estado": "pendiente",
+    "tipo": "fallas de conexión",
+    "zona": "Norte - Bucaramanga"
+  },
+  {
+    "id_cliente": "1087569345",
+    "fecha": "2024-05-28",
+    "descripcion": "No tengo señal en la televisión desde ayer por la tarde.",
+    "estado": "en proceso",
+    "tipo": "problemas con TV",
+    "zona": "Sur - Floridablanca"
+  },
+  {
+    "id_cliente": "1093827465",
+    "fecha": "2024-05-30",
+    "descripcion": "Mi router no enciende, ya intenté reiniciarlo varias veces.",
+    "estado": "pendiente",
+    "tipo": "router dañado",
+    "zona": "Centro - Girón"
+  },
+  {
+    "id_cliente": "1092736451",
+    "fecha": "2024-05-25",
+    "descripcion": "El internet está muy lento en horas de la noche.",
+    "estado": "resuelto",
+    "tipo": "baja velocidad",
+    "zona": "Occidente - Bucaramanga"
+  },
+  {
+    "id_cliente": "1109876543",
+    "fecha": "2024-05-29",
+    "descripcion": "Falla total en el servicio de telefonía desde hace dos días.",
+    "estado": "pendiente",
+    "tipo": "sin telefonía",
+    "zona": "Norte - Piedecuesta"
+  },
+  {
+    "id_cliente": "1098761234",
+    "fecha": "2024-05-31",
+    "descripcion": "Cortes intermitentes en la señal del televisor.",
+    "estado": "en proceso",
+    "tipo": "problemas con TV",
+    "zona": "Sur - Floridablanca"
+  },
+  {
+    "id_cliente": "1092837465",
+    "fecha": "2024-06-02",
+    "descripcion": "El módem hace ruido y se calienta demasiado.",
+    "estado": "pendiente",
+    "tipo": "equipos defectuosos",
+    "zona": "Centro - Bucaramanga"
+  },
+  {
+    "id_cliente": "1102837462",
+    "fecha": "2024-05-27",
+    "descripcion": "Sin internet ni televisión desde el apagón del lunes.",
+    "estado": "resuelto",
+    "tipo": "servicio interrumpido",
+    "zona": "Oriente - Girón"
+  },
+  {
+    "id_cliente": "1093482736",
+    "fecha": "2024-06-03",
+    "descripcion": "El cableado en la fachada está colgando.",
+    "estado": "pendiente",
+    "tipo": "problemas técnicos",
+    "zona": "Centro - Piedecuesta"
+  },
+  {
+    "id_cliente": "1102738495",
+    "fecha": "2024-06-01",
+    "descripcion": "Interrupciones constantes en la señal de internet por cable.",
+    "estado": "en proceso",
+    "tipo": "intermitencia",
+    "zona": "Norte - Bucaramanga"
+  }
+]

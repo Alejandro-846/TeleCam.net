@@ -1,0 +1,82 @@
+[
+  {
+    "nombre_plan": "Internet 100MB",
+    "descripcion": "Servicio de internet de 100 megas con router incluido.",
+    "tipo": "Internet",
+    "velocidad": "100MB",
+    "precio": 64900,
+    "estado": "activo"
+  },
+  {
+    "nombre_plan": "Internet 200MB",
+    "descripcion": "Internet de alta velocidad para hogares con múltiples dispositivos.",
+    "tipo": "Internet",
+    "velocidad": "200MB",
+    "precio": 84900,
+    "estado": "activo"
+  },
+  {
+    "nombre_plan": "Tripleplay 150MB",
+    "descripcion": "Internet, televisión y telefonía fija. Plan familiar ideal.",
+    "tipo": "Tripleplay",
+    "velocidad": "150MB",
+    "precio": 109900,
+    "estado": "activo"
+  },
+  {
+    "nombre_plan": "Tripleplay 300MB",
+    "descripcion": "Plan completo con TV HD, telefonía fija e internet de 300MB.",
+    "tipo": "Tripleplay",
+    "velocidad": "300MB",
+    "precio": 129900,
+    "estado": "activo"
+  },
+  {
+    "nombre_plan": "TV HD Básico",
+    "descripcion": "40 canales nacionales e internacionales en HD.",
+    "tipo": "Televisión",
+    "velocidad": null,
+    "precio": 45900,
+    "estado": "activo"
+  },
+  {
+    "nombre_plan": "TV Premium",
+    "descripcion": "Más de 90 canales, incluyendo películas, deportes y series.",
+    "tipo": "Televisión",
+    "velocidad": null,
+    "precio": 78900,
+    "estado": "activo"
+  },
+  {
+    "nombre_plan": "Telefonía Fija Ilimitada",
+    "descripcion": "Llamadas ilimitadas a todo el país con identificador de llamadas.",
+    "tipo": "Telefonía",
+    "velocidad": null,
+    "precio": 34900,
+    "estado": "activo"
+  },
+  {
+    "nombre_plan": "Internet Empresarial 500MB",
+    "descripcion": "Conexión dedicada para empresas con soporte 24/7.",
+    "tipo": "Internet",
+    "velocidad": "500MB",
+    "precio": 189000,
+    "estado": "activo"
+  },
+  {
+    "nombre_plan": "Plan Básico Dobleplay",
+    "descripcion": "Incluye internet 100MB y telefonía fija a buen precio.",
+    "tipo": "Dobleplay",
+    "velocidad": "100MB",
+    "precio": 89900,
+    "estado": "activo"
+  },
+  {
+    "nombre_plan": "Plan Familiar Dobleplay",
+    "descripcion": "Internet 200MB + TV HD Básico para toda la familia.",
+    "tipo": "Dobleplay",
+    "velocidad": "200MB",
+    "precio": 102900,
+    "estado": "activo"
+  }
+]

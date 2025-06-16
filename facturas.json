@@ -1,0 +1,92 @@
+[
+  {
+    "id_factura": "FAC-001",
+    "id_cliente": "1098456123",
+    "plan": "Internet 100MB",
+    "fecha_emision": "2024-06-01",
+    "fecha_vencimiento": "2024-06-10",
+    "monto": 64900,
+    "estado_pago": "pendiente"
+  },
+  {
+    "id_factura": "FAC-002",
+    "id_cliente": "1087569345",
+    "plan": "Tripleplay 150MB",
+    "fecha_emision": "2024-05-28",
+    "fecha_vencimiento": "2024-06-08",
+    "monto": 109900,
+    "estado_pago": "pagado"
+  },
+  {
+    "id_factura": "FAC-003",
+    "id_cliente": "1093827465",
+    "plan": "TV HD Básico",
+    "fecha_emision": "2024-05-25",
+    "fecha_vencimiento": "2024-06-05",
+    "monto": 45900,
+    "estado_pago": "pendiente"
+  },
+  {
+    "id_factura": "FAC-004",
+    "id_cliente": "1092736451",
+    "plan": "Telefonía Fija Ilimitada",
+    "fecha_emision": "2024-05-30",
+    "fecha_vencimiento": "2024-06-09",
+    "monto": 34900,
+    "estado_pago": "pagado"
+  },
+  {
+    "id_factura": "FAC-005",
+    "id_cliente": "1109876543",
+    "plan": "Internet Empresarial 500MB",
+    "fecha_emision": "2024-06-02",
+    "fecha_vencimiento": "2024-06-12",
+    "monto": 189000,
+    "estado_pago": "pendiente"
+  },
+  {
+    "id_factura": "FAC-006",
+    "id_cliente": "1098761234",
+    "plan": "Dobleplay Familiar",
+    "fecha_emision": "2024-05-27",
+    "fecha_vencimiento": "2024-06-07",
+    "monto": 102900,
+    "estado_pago": "pagado"
+  },
+  {
+    "id_factura": "FAC-007",
+    "id_cliente": "1092837465",
+    "plan": "Internet 200MB",
+    "fecha_emision": "2024-06-03",
+    "fecha_vencimiento": "2024-06-13",
+    "monto": 84900,
+    "estado_pago": "pendiente"
+  },
+  {
+    "id_factura": "FAC-008",
+    "id_cliente": "1102837462",
+    "plan": "TV Premium",
+    "fecha_emision": "2024-05-26",
+    "fecha_vencimiento": "2024-06-06",
+    "monto": 78900,
+    "estado_pago": "pagado"
+  },
+  {
+    "id_factura": "FAC-009",
+    "id_cliente": "1093482736",
+    "plan": "Plan Básico Dobleplay",
+    "fecha_emision": "2024-06-04",
+    "fecha_vencimiento": "2024-06-14",
+    "monto": 89900,
+    "estado_pago": "pendiente"
+  },
+  {
+    "id_factura": "FAC-010",
+    "id_cliente": "1102738495",
+    "plan": "Tripleplay 300MB",
+    "fecha_emision": "2024-06-05",
+    "fecha_vencimiento": "2024-06-15",
+    "monto": 129900,
+    "estado_pago": "pendiente"
+  }
+]

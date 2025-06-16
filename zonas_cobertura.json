@@ -1,0 +1,7 @@
+{
+  "ciudad": "Bucaramanga",
+  "zona": "Sur",
+  "barrios": ["Alarcon", "San Francisco", "La Concordia"],
+  "servicios_disponibles": ["Internet", "TV", "Telefonía"],
+  "estado": "activo"
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "nombre": "Andrea Torres",
+    "cedula": "1098456123",
+    "telefono": "3104567890",
+    "correo": "andrea.torres@gmail.com",
+    "direccion": "Calle 34 #15-45",
+    "ciudad": "Bucaramanga",
+    "plan_actual": "Internet 100MB",
+    "fecha_registro": "2023-11-12"
+  },
+  {
+    "nombre": "Carlos Gómez",
+    "cedula": "1087569345",
+    "telefono": "3176543210",
+    "correo": "carlos.gomez@outlook.com",
+    "direccion": "Cra 20 #45-33",
+    "ciudad": "Floridablanca",
+    "plan_actual": "Tripleplay 300MB",
+    "fecha_registro": "2024-01-10"
+  },
+  {
+    "nombre": "Lucía Rueda",
+    "cedula": "1093827465",
+    "telefono": "3112345678",
+    "correo": "lucia.rueda@telecam.net",
+    "direccion": "Calle 7 #23-10",
+    "ciudad": "Girón",
+    "plan_actual": "TV HD Básico",
+    "fecha_registro": "2024-03-05"
+  },
+  {
+    "nombre": "Andrés Niño",
+    "cedula": "1092736451",
+    "telefono": "3137894561",
+    "correo": "andres.nino@gmail.com",
+    "direccion": "Cra 8 #12-34",
+    "ciudad": "Bucaramanga",
+    "plan_actual": "Internet 300MB",
+    "fecha_registro": "2024-02-19"
+  },
+  {
+    "nombre": "Marta Díaz",
+    "cedula": "1109876543",
+    "telefono": "3201234567",
+    "correo": "marta.diaz@telecam.net",
+    "direccion": "Av. 27 #56-78",
+    "ciudad": "Piedecuesta",
+    "plan_actual": "Tripleplay 150MB",
+    "fecha_registro": "2023-09-30"
+  },
+  {
+    "nombre": "David López",
+    "cedula": "1098761234",
+    "telefono": "3147654321",
+    "correo": "david.lopez@hotmail.com",
+    "direccion": "Cra 9 #18-45",
+    "ciudad": "Floridablanca",
+    "plan_actual": "Internet 100MB",
+    "fecha_registro": "2023-12-20"
+  },
+  {
+    "nombre": "Sofía Martínez",
+    "cedula": "1092837465",
+    "telefono": "3167895432",
+    "correo": "sofia.martinez@telecam.net",
+    "direccion": "Calle 12 #10-22",
+    "ciudad": "Bucaramanga",
+    "plan_actual": "TV Premium",
+    "fecha_registro": "2024-01-15"
+  },
+  {
+    "nombre": "Julián Castro",
+    "cedula": "1102837462",
+    "telefono": "3109871234",
+    "correo": "julian.castro@gmail.com",
+    "direccion": "Cra 25 #30-16",
+    "ciudad": "Girón",
+    "plan_actual": "Telefonía fija",
+    "fecha_registro": "2023-10-11"
+  },
+  {
+    "nombre": "Luisa Méndez",
+    "cedula": "1093482736",
+    "telefono": "3114567890",
+    "correo": "luisa.mendez@gmail.com",
+    "direccion": "Calle 40 #50-10",
+    "ciudad": "Piedecuesta",
+    "plan_actual": "Tripleplay 150MB",
+    "fecha_registro": "2024-04-07"
+  },
+  {
+    "nombre": "Camilo Vargas",
+    "cedula": "1102738495",
+    "telefono": "3138765432",
+    "correo": "camilo.vargas@telecam.net",
+    "direccion": "Av. La Rosita #20-55",
+    "ciudad": "Bucaramanga",
+    "plan_actual": "Internet 200MB",
+    "fecha_registro": "2024-05-03"
+  }
+]

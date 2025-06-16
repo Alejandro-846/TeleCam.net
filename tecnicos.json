@@ -1,0 +1,92 @@
+[
+  {
+    "nombre": "Santiago Moreno",
+    "cedula": "1234567890",
+    "correo": "santiago.moreno@telecam.net",
+    "telefono": "3101234567",
+    "zona_asignada": "Norte - Bucaramanga",
+    "especialidad": "Internet",
+    "estado": "activo"
+  },
+  {
+    "nombre": "Valentina Ríos",
+    "cedula": "1092847561",
+    "correo": "valentina.rios@telecam.net",
+    "telefono": "3112345678",
+    "zona_asignada": "Centro - Bucaramanga",
+    "especialidad": "Televisión",
+    "estado": "activo"
+  },
+  {
+    "nombre": "Carlos Peña",
+    "cedula": "1092837464",
+    "correo": "carlos.pena@telecam.net",
+    "telefono": "3123456789",
+    "zona_asignada": "Sur - Floridablanca",
+    "especialidad": "Telefonía",
+    "estado": "activo"
+  },
+  {
+    "nombre": "Diana Romero",
+    "cedula": "1102837466",
+    "correo": "diana.romero@telecam.net",
+    "telefono": "3134567890",
+    "zona_asignada": "Centro - Girón",
+    "especialidad": "Tripleplay",
+    "estado": "activo"
+  },
+  {
+    "nombre": "Miguel Torres",
+    "cedula": "1102938475",
+    "correo": "miguel.torres@telecam.net",
+    "telefono": "3145678901",
+    "zona_asignada": "Norte - Piedecuesta",
+    "especialidad": "Instalaciones",
+    "estado": "activo"
+  },
+  {
+    "nombre": "Juliana Mendoza",
+    "cedula": "1102983746",
+    "correo": "juliana.mendoza@telecam.net",
+    "telefono": "3156789012",
+    "zona_asignada": "Oriente - Girón",
+    "especialidad": "Internet",
+    "estado": "activo"
+  },
+  {
+    "nombre": "Andrés Páez",
+    "cedula": "1102736489",
+    "correo": "andres.paez@telecam.net",
+    "telefono": "3167890123",
+    "zona_asignada": "Sur - Floridablanca",
+    "especialidad": "Equipos",
+    "estado": "activo"
+  },
+  {
+    "nombre": "Natalia Rodríguez",
+    "cedula": "1102387465",
+    "correo": "natalia.rodriguez@telecam.net",
+    "telefono": "3178901234",
+    "zona_asignada": "Occidente - Bucaramanga",
+    "especialidad": "TV HD",
+    "estado": "activo"
+  },
+  {
+    "nombre": "Camilo Herrera",
+    "cedula": "1098472634",
+    "correo": "camilo.herrera@telecam.net",
+    "telefono": "3189012345",
+    "zona_asignada": "Centro - Piedecuesta",
+    "especialidad": "Mantenimiento",
+    "estado": "activo"
+  },
+  {
+    "nombre": "Laura Jiménez",
+    "cedula": "1103847562",
+    "correo": "laura.jimenez@telecam.net",
+    "telefono": "3190123456",
+    "zona_asignada": "Norte - Bucaramanga",
+    "especialidad": "Reparación",
+    "estado": "activo"
+  }
+]
