@@ -1,92 +1,362 @@
 [
   {
+    "id_tecnico": "TEC-001",
     "nombre": "Santiago Moreno",
     "cedula": "1234567890",
     "correo": "santiago.moreno@telecam.net",
     "telefono": "3101234567",
     "zona_asignada": "Norte - Bucaramanga",
     "especialidad": "Internet",
-    "estado": "activo"
+    "estado": "activo",
+    "fecha_ingreso": "2021-03-15",
+    "disponible": true
   },
   {
+    "id_tecnico": "TEC-002",
     "nombre": "Valentina Ríos",
     "cedula": "1092847561",
     "correo": "valentina.rios@telecam.net",
     "telefono": "3112345678",
     "zona_asignada": "Centro - Bucaramanga",
     "especialidad": "Televisión",
-    "estado": "activo"
+    "estado": "activo",
+    "fecha_ingreso": "2022-05-22",
+    "disponible": true
   },
   {
+    "id_tecnico": "TEC-003",
     "nombre": "Carlos Peña",
     "cedula": "1092837464",
     "correo": "carlos.pena@telecam.net",
     "telefono": "3123456789",
     "zona_asignada": "Sur - Floridablanca",
     "especialidad": "Telefonía",
-    "estado": "activo"
+    "estado": "activo",
+    "fecha_ingreso": "2020-11-10",
+    "disponible": false
   },
   {
+    "id_tecnico": "TEC-004",
     "nombre": "Diana Romero",
     "cedula": "1102837466",
     "correo": "diana.romero@telecam.net",
     "telefono": "3134567890",
     "zona_asignada": "Centro - Girón",
     "especialidad": "Tripleplay",
-    "estado": "activo"
+    "estado": "activo",
+    "fecha_ingreso": "2023-01-18",
+    "disponible": true
   },
   {
+    "id_tecnico": "TEC-005",
     "nombre": "Miguel Torres",
     "cedula": "1102938475",
     "correo": "miguel.torres@telecam.net",
     "telefono": "3145678901",
     "zona_asignada": "Norte - Piedecuesta",
     "especialidad": "Instalaciones",
-    "estado": "activo"
+    "estado": "activo",
+    "fecha_ingreso": "2019-07-30",
+    "disponible": true
   },
   {
+    "id_tecnico": "TEC-006",
     "nombre": "Juliana Mendoza",
     "cedula": "1102983746",
     "correo": "juliana.mendoza@telecam.net",
     "telefono": "3156789012",
     "zona_asignada": "Oriente - Girón",
     "especialidad": "Internet",
-    "estado": "activo"
+    "estado": "activo",
+    "fecha_ingreso": "2022-08-14",
+    "disponible": false
   },
   {
+    "id_tecnico": "TEC-007",
     "nombre": "Andrés Páez",
     "cedula": "1102736489",
     "correo": "andres.paez@telecam.net",
     "telefono": "3167890123",
     "zona_asignada": "Sur - Floridablanca",
     "especialidad": "Equipos",
-    "estado": "activo"
+    "estado": "activo",
+    "fecha_ingreso": "2021-12-05",
+    "disponible": true
   },
   {
+    "id_tecnico": "TEC-008",
     "nombre": "Natalia Rodríguez",
     "cedula": "1102387465",
     "correo": "natalia.rodriguez@telecam.net",
     "telefono": "3178901234",
     "zona_asignada": "Occidente - Bucaramanga",
     "especialidad": "TV HD",
-    "estado": "activo"
+    "estado": "activo",
+    "fecha_ingreso": "2023-04-27",
+    "disponible": true
   },
   {
+    "id_tecnico": "TEC-009",
     "nombre": "Camilo Herrera",
     "cedula": "1098472634",
     "correo": "camilo.herrera@telecam.net",
     "telefono": "3189012345",
     "zona_asignada": "Centro - Piedecuesta",
     "especialidad": "Mantenimiento",
-    "estado": "activo"
+    "estado": "activo",
+    "fecha_ingreso": "2020-09-12",
+    "disponible": false
   },
   {
+    "id_tecnico": "TEC-010",
     "nombre": "Laura Jiménez",
     "cedula": "1103847562",
     "correo": "laura.jimenez@telecam.net",
     "telefono": "3190123456",
     "zona_asignada": "Norte - Bucaramanga",
     "especialidad": "Reparación",
-    "estado": "activo"
+    "estado": "activo",
+    "fecha_ingreso": "2022-02-20",
+    "disponible": true
+  },
+  {
+    "id_tecnico": "TEC-011",
+    "nombre": "Óscar Gutiérrez",
+    "cedula": "1102938476",
+    "correo": "oscar.gutierrez@telecam.net",
+    "telefono": "3201234567",
+    "zona_asignada": "Sur - Floridablanca",
+    "especialidad": "Fibra Óptica",
+    "estado": "activo",
+    "fecha_ingreso": "2021-06-15",
+    "disponible": true
+  },
+  {
+    "id_tecnico": "TEC-012",
+    "nombre": "María Fernández",
+    "cedula": "1103847563",
+    "correo": "maria.fernandez@telecam.net",
+    "telefono": "3212345678",
+    "zona_asignada": "Oriente - Girón",
+    "especialidad": "Configuraciones",
+    "estado": "activo",
+    "fecha_ingreso": "2023-03-10",
+    "disponible": true
+  },
+  {
+    "id_tecnico": "TEC-013",
+    "nombre": "Jorge Ramírez",
+    "cedula": "1102736480",
+    "correo": "jorge.ramirez@telecam.net",
+    "telefono": "3223456789",
+    "zona_asignada": "Centro - Bucaramanga",
+    "especialidad": "Instalaciones",
+    "estado": "activo",
+    "fecha_ingreso": "2019-11-22",
+    "disponible": false
+  },
+  {
+    "id_tecnico": "TEC-014",
+    "nombre": "Patricia Castro",
+    "cedula": "1102938477",
+    "correo": "patricia.castro@telecam.net",
+    "telefono": "3234567890",
+    "zona_asignada": "Norte - Piedecuesta",
+    "especialidad": "Telefonía IP",
+    "estado": "activo",
+    "fecha_ingreso": "2022-07-18",
+    "disponible": true
+  },
+  {
+    "id_tecnico": "TEC-015",
+    "nombre": "Ricardo Mendez",
+    "cedula": "1103847564",
+    "correo": "ricardo.mendez@telecam.net",
+    "telefono": "3245678901",
+    "zona_asignada": "Occidente - Bucaramanga",
+    "especialidad": "Redes",
+    "estado": "activo",
+    "fecha_ingreso": "2020-04-05",
+    "disponible": true
+  },
+  {
+    "id_tecnico": "TEC-016",
+    "nombre": "Adriana Silva",
+    "cedula": "1102736481",
+    "correo": "adriana.silva@telecam.net",
+    "telefono": "3256789012",
+    "zona_asignada": "Centro - Girón",
+    "especialidad": "Televisión Digital",
+    "estado": "activo",
+    "fecha_ingreso": "2021-09-30",
+    "disponible": false
+  },
+  {
+    "id_tecnico": "TEC-017",
+    "nombre": "Fernando Rojas",
+    "cedula": "1102938478",
+    "correo": "fernando.rojas@telecam.net",
+    "telefono": "3267890123",
+    "zona_asignada": "Sur - Floridablanca",
+    "especialidad": "Satélite",
+    "estado": "activo",
+    "fecha_ingreso": "2023-05-25",
+    "disponible": true
+  },
+  {
+    "id_tecnico": "TEC-018",
+    "nombre": "Gabriela Núñez",
+    "cedula": "1103847565",
+    "correo": "gabriela.nunez@telecam.net",
+    "telefono": "3278901234",
+    "zona_asignada": "Norte - Bucaramanga",
+    "especialidad": "WiFi",
+    "estado": "activo",
+    "fecha_ingreso": "2022-01-12",
+    "disponible": true
+  },
+  {
+    "id_tecnico": "TEC-019",
+    "nombre": "Héctor Guzmán",
+    "cedula": "1102736482",
+    "correo": "hector.guzman@telecam.net",
+    "telefono": "3289012345",
+    "zona_asignada": "Oriente - Girón",
+    "especialidad": "Fibra Óptica",
+    "estado": "activo",
+    "fecha_ingreso": "2020-08-17",
+    "disponible": false
+  },
+  {
+    "id_tecnico": "TEC-020",
+    "nombre": "Daniela Pardo",
+    "cedula": "1102938479",
+    "correo": "daniela.pardo@telecam.net",
+    "telefono": "3290123456",
+    "zona_asignada": "Centro - Piedecuesta",
+    "especialidad": "Configuraciones",
+    "estado": "activo",
+    "fecha_ingreso": "2021-04-08",
+    "disponible": true
+  },
+  {
+    "id_tecnico": "TEC-021",
+    "nombre": "Mauricio Soto",
+    "cedula": "1103847566",
+    "correo": "mauricio.soto@telecam.net",
+    "telefono": "3301234567",
+    "zona_asignada": "Occidente - Bucaramanga",
+    "especialidad": "Instalaciones",
+    "estado": "activo",
+    "fecha_ingreso": "2023-02-14",
+    "disponible": true
+  },
+  {
+    "id_tecnico": "TEC-022",
+    "nombre": "Luisa Morales",
+    "cedula": "1102736483",
+    "correo": "luisa.morales@telecam.net",
+    "telefono": "3312345678",
+    "zona_asignada": "Norte - Piedecuesta",
+    "especialidad": "Telefonía IP",
+    "estado": "activo",
+    "fecha_ingreso": "2019-12-03",
+    "disponible": false
+  },
+  {
+    "id_tecnico": "TEC-023",
+    "nombre": "Roberto Vargas",
+    "cedula": "1102938480",
+    "correo": "roberto.vargas@telecam.net",
+    "telefono": "3323456789",
+    "zona_asignada": "Sur - Floridablanca",
+    "especialidad": "Redes",
+    "estado": "activo",
+    "fecha_ingreso": "2022-09-28",
+    "disponible": true
+  },
+  {
+    "id_tecnico": "TEC-024",
+    "nombre": "Isabel Cordero",
+    "cedula": "1103847567",
+    "correo": "isabel.cordero@telecam.net",
+    "telefono": "3334567890",
+    "zona_asignada": "Centro - Girón",
+    "especialidad": "Televisión Digital",
+    "estado": "activo",
+    "fecha_ingreso": "2020-05-19",
+    "disponible": true
+  },
+  {
+    "id_tecnico": "TEC-025",
+    "nombre": "Gustavo Peñaranda",
+    "cedula": "1102736484",
+    "correo": "gustavo.penaranda@telecam.net",
+    "telefono": "3345678901",
+    "zona_asignada": "Norte - Bucaramanga",
+    "especialidad": "Satélite",
+    "estado": "activo",
+    "fecha_ingreso": "2021-10-22",
+    "disponible": false
+  },
+  {
+    "id_tecnico": "TEC-026",
+    "nombre": "Natalia Guzmán",
+    "cedula": "1102938481",
+    "correo": "natalia.guzman@telecam.net",
+    "telefono": "3356789012",
+    "zona_asignada": "Oriente - Girón",
+    "especialidad": "WiFi",
+    "estado": "activo",
+    "fecha_ingreso": "2023-06-07",
+    "disponible": true
+  },
+  {
+    "id_tecnico": "TEC-027",
+    "nombre": "Felipe Rangel",
+    "cedula": "1103847568",
+    "correo": "felipe.rangel@telecam.net",
+    "telefono": "3367890123",
+    "zona_asignada": "Centro - Piedecuesta",
+    "especialidad": "Fibra Óptica",
+    "estado": "activo",
+    "fecha_ingreso": "2022-03-11",
+    "disponible": true
+  },
+  {
+    "id_tecnico": "TEC-028",
+    "nombre": "Marcela Suárez",
+    "cedula": "1102736485",
+    "correo": "marcela.suarez@telecam.net",
+    "telefono": "3378901234",
+    "zona_asignada": "Occidente - Bucaramanga",
+    "especialidad": "Configuraciones",
+    "estado": "activo",
+    "fecha_ingreso": "2020-10-24",
+    "disponible": false
+  },
+  {
+    "id_tecnico": "TEC-029",
+    "nombre": "Raúl Contreras",
+    "cedula": "1102938482",
+    "correo": "raul.contreras@telecam.net",
+    "telefono": "3389012345",
+    "zona_asignada": "Sur - Floridablanca",
+    "especialidad": "Instalaciones",
+    "estado": "activo",
+    "fecha_ingreso": "2021-07-16",
+    "disponible": true
+  },
+  {
+    "id_tecnico": "TEC-030",
+    "nombre": "Verónica Acosta",
+    "cedula": "1103847569",
+    "correo": "veronica.acosta@telecam.net",
+    "telefono": "3390123456",
+    "zona_asignada": "Norte - Piedecuesta",
+    "especialidad": "Telefonía IP",
+    "estado": "activo",
+    "fecha_ingreso": "2023-01-29",
+    "disponible": true
   }
 ]

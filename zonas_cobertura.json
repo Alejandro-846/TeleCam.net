@@ -1,7 +1,272 @@
-{
-  "ciudad": "Bucaramanga",
-  "zona": "Sur",
-  "barrios": ["Alarcon", "San Francisco", "La Concordia"],
-  "servicios_disponibles": ["Internet", "TV", "Telefonía"],
-  "estado": "activo"
-}
+[
+  {
+    "id_zona": "ZON-001",
+    "nombre": "Norte - Bucaramanga",
+    "tipo_cobertura": "Fibra Óptica",
+    "velocidad_maxima": "1GB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-05-15",
+    "tecnicos_asignados": 5
+  },
+  {
+    "id_zona": "ZON-002",
+    "nombre": "Sur - Floridablanca",
+    "tipo_cobertura": "HFC",
+    "velocidad_maxima": "500MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-04-22",
+    "tecnicos_asignados": 4
+  },
+  {
+    "id_zona": "ZON-003",
+    "nombre": "Centro - Girón",
+    "tipo_cobertura": "Fibra Óptica",
+    "velocidad_maxima": "300MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-06-01",
+    "tecnicos_asignados": 3
+  },
+  {
+    "id_zona": "ZON-004",
+    "nombre": "Norte - Piedecuesta",
+    "tipo_cobertura": "HFC",
+    "velocidad_maxima": "200MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-03-18",
+    "tecnicos_asignados": 2
+  },
+  {
+    "id_zona": "ZON-005",
+    "nombre": "Oriente - Girón",
+    "tipo_cobertura": "ADSL",
+    "velocidad_maxima": "100MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-05-30",
+    "tecnicos_asignados": 2
+  },
+  {
+    "id_zona": "ZON-006",
+    "nombre": "Occidente - Bucaramanga",
+    "tipo_cobertura": "Fibra Óptica",
+    "velocidad_maxima": "500MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-04-10",
+    "tecnicos_asignados": 3
+  },
+  {
+    "id_zona": "ZON-007",
+    "nombre": "Centro - Piedecuesta",
+    "tipo_cobertura": "HFC",
+    "velocidad_maxima": "150MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-06-05",
+    "tecnicos_asignados": 2
+  },
+  {
+    "id_zona": "ZON-008",
+    "nombre": "Cabecera - Floridablanca",
+    "tipo_cobertura": "Fibra Óptica",
+    "velocidad_maxima": "1GB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-05-20",
+    "tecnicos_asignados": 4
+  },
+  {
+    "id_zona": "ZON-009",
+    "nombre": "Alto - Bucaramanga",
+    "tipo_cobertura": "HFC",
+    "velocidad_maxima": "300MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-04-15",
+    "tecnicos_asignados": 3
+  },
+  {
+    "id_zona": "ZON-010",
+    "nombre": "La Flora - Floridablanca",
+    "tipo_cobertura": "Fibra Óptica",
+    "velocidad_maxima": "500MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-06-10",
+    "tecnicos_asignados": 2
+  },
+  {
+    "id_zona": "ZON-011",
+    "nombre": "San Francisco - Girón",
+    "tipo_cobertura": "ADSL",
+    "velocidad_maxima": "100MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-03-25",
+    "tecnicos_asignados": 1
+  },
+  {
+    "id_zona": "ZON-012",
+    "nombre": "Morrorico - Piedecuesta",
+    "tipo_cobertura": "HFC",
+    "velocidad_maxima": "150MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-05-28",
+    "tecnicos_asignados": 1
+  },
+  {
+    "id_zona": "ZON-013",
+    "nombre": "Provenza - Bucaramanga",
+    "tipo_cobertura": "Fibra Óptica",
+    "velocidad_maxima": "1GB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-06-12",
+    "tecnicos_asignados": 4
+  },
+  {
+    "id_zona": "ZON-014",
+    "nombre": "Cañaveral - Floridablanca",
+    "tipo_cobertura": "Fibra Óptica",
+    "velocidad_maxima": "1GB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-04-05",
+    "tecnicos_asignados": 3
+  },
+  {
+    "id_zona": "ZON-015",
+    "nombre": "Centro Histórico - Girón",
+    "tipo_cobertura": "HFC",
+    "velocidad_maxima": "200MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-05-22",
+    "tecnicos_asignados": 2
+  },
+  {
+    "id_zona": "ZON-016",
+    "nombre": "Urbanización Bosques - Piedecuesta",
+    "tipo_cobertura": "Fibra Óptica",
+    "velocidad_maxima": "300MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-06-08",
+    "tecnicos_asignados": 2
+  },
+  {
+    "id_zona": "ZON-017",
+    "nombre": "Sotomayor - Bucaramanga",
+    "tipo_cobertura": "HFC",
+    "velocidad_maxima": "150MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-03-30",
+    "tecnicos_asignados": 3
+  },
+  {
+    "id_zona": "ZON-018",
+    "nombre": "Terrazas - Floridablanca",
+    "tipo_cobertura": "Fibra Óptica",
+    "velocidad_maxima": "500MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-05-18",
+    "tecnicos_asignados": 3
+  },
+  {
+    "id_zona": "ZON-019",
+    "nombre": "Lagos - Girón",
+    "tipo_cobertura": "ADSL",
+    "velocidad_maxima": "100MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-06-15",
+    "tecnicos_asignados": 1
+  },
+  {
+    "id_zona": "ZON-020",
+    "nombre": "Villa Helena - Piedecuesta",
+    "tipo_cobertura": "HFC",
+    "velocidad_maxima": "150MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-04-28",
+    "tecnicos_asignados": 1
+  },
+  {
+    "id_zona": "ZON-021",
+    "nombre": "San Alonso - Bucaramanga",
+    "tipo_cobertura": "Fibra Óptica",
+    "velocidad_maxima": "300MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-05-25",
+    "tecnicos_asignados": 3
+  },
+  {
+    "id_zona": "ZON-022",
+    "nombre": "Santa Bárbara - Floridablanca",
+    "tipo_cobertura": "Fibra Óptica",
+    "velocidad_maxima": "500MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-06-03",
+    "tecnicos_asignados": 3
+  },
+  {
+    "id_zona": "ZON-023",
+    "nombre": "El Pedregal - Girón",
+    "tipo_cobertura": "HFC",
+    "velocidad_maxima": "200MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-03-20",
+    "tecnicos_asignados": 2
+  },
+  {
+    "id_zona": "ZON-024",
+    "nombre": "La Mesa - Piedecuesta",
+    "tipo_cobertura": "ADSL",
+    "velocidad_maxima": "100MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-05-30",
+    "tecnicos_asignados": 1
+  },
+  {
+    "id_zona": "ZON-025",
+    "nombre": "Ciudadela Real de Minas - Bucaramanga",
+    "tipo_cobertura": "Fibra Óptica",
+    "velocidad_maxima": "1GB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-06-18",
+    "tecnicos_asignados": 4
+  },
+  {
+    "id_zona": "ZON-026",
+    "nombre": "Alarcón - Floridablanca",
+    "tipo_cobertura": "HFC",
+    "velocidad_maxima": "150MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-04-12",
+    "tecnicos_asignados": 2
+  },
+  {
+    "id_zona": "ZON-027",
+    "nombre": "El Poblado - Girón",
+    "tipo_cobertura": "Fibra Óptica",
+    "velocidad_maxima": "300MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-05-28",
+    "tecnicos_asignados": 2
+  },
+  {
+    "id_zona": "ZON-028",
+    "nombre": "La Hoyada - Piedecuesta",
+    "tipo_cobertura": "HFC",
+    "velocidad_maxima": "150MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-06-14",
+    "tecnicos_asignados": 1
+  },
+  {
+    "id_zona": "ZON-029",
+    "nombre": "San Miguel - Bucaramanga",
+    "tipo_cobertura": "Fibra Óptica",
+    "velocidad_maxima": "500MB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-03-15",
+    "tecnicos_asignados": 3
+  },
+  {
+    "id_zona": "ZON-030",
+    "nombre": "Villa del Prado - Floridablanca",
+    "tipo_cobertura": "Fibra Óptica",
+    "velocidad_maxima": "1GB",
+    "estado": "activa",
+    "ultima_actualizacion": "2024-05-22",
+    "tecnicos_asignados": 4
+  }
+]

@@ -1,102 +1,302 @@
 [
   {
-    "nombre": "Andrea Torres",
-    "cedula": "1098456123",
-    "telefono": "3104567890",
-    "correo": "andrea.torres@gmail.com",
-    "direccion": "Calle 34 #15-45",
+    "nombre": "María González",
+    "cedula": "1023456789",
+    "telefono": "3151234567",
+    "correo": "maria.gonzalez@gmail.com",
+    "direccion": "Carrera 15 #25-30",
     "ciudad": "Bucaramanga",
     "plan_actual": "Internet 100MB",
-    "fecha_registro": "2023-11-12"
+    "fecha_registro": "2023-10-15"
   },
   {
-    "nombre": "Carlos Gómez",
-    "cedula": "1087569345",
-    "telefono": "3176543210",
-    "correo": "carlos.gomez@outlook.com",
-    "direccion": "Cra 20 #45-33",
+    "nombre": "Carlos Rodríguez",
+    "cedula": "1034567890",
+    "telefono": "3202345678",
+    "correo": "carlos.rodriguez@hotmail.com",
+    "direccion": "Calle 20 #35-12",
     "ciudad": "Floridablanca",
-    "plan_actual": "Tripleplay 300MB",
-    "fecha_registro": "2024-01-10"
+    "plan_actual": "Tripleplay 150MB",
+    "fecha_registro": "2024-01-20"
   },
   {
-    "nombre": "Lucía Rueda",
-    "cedula": "1093827465",
-    "telefono": "3112345678",
-    "correo": "lucia.rueda@telecam.net",
-    "direccion": "Calle 7 #23-10",
+    "nombre": "Ana Martínez",
+    "cedula": "1045678901",
+    "telefono": "3173456789",
+    "correo": "ana.martinez@telecam.net",
+    "direccion": "Avenida 30 #40-50",
     "ciudad": "Girón",
     "plan_actual": "TV HD Básico",
-    "fecha_registro": "2024-03-05"
+    "fecha_registro": "2024-03-10"
   },
   {
-    "nombre": "Andrés Niño",
-    "cedula": "1092736451",
-    "telefono": "3137894561",
-    "correo": "andres.nino@gmail.com",
-    "direccion": "Cra 8 #12-34",
+    "nombre": "Jorge Pérez",
+    "cedula": "1056789012",
+    "telefono": "3104567890",
+    "correo": "jorge.perez@gmail.com",
+    "direccion": "Carrera 10 #15-25",
+    "ciudad": "Piedecuesta",
+    "plan_actual": "Internet 200MB",
+    "fecha_registro": "2023-11-05"
+  },
+  {
+    "nombre": "Laura Sánchez",
+    "cedula": "1067890123",
+    "telefono": "3135678901",
+    "correo": "laura.sanchez@outlook.com",
+    "direccion": "Calle 25 #30-40",
     "ciudad": "Bucaramanga",
-    "plan_actual": "Internet 300MB",
-    "fecha_registro": "2024-02-19"
+    "plan_actual": "Tripleplay 300MB",
+    "fecha_registro": "2024-02-18"
   },
   {
-    "nombre": "Marta Díaz",
-    "cedula": "1109876543",
-    "telefono": "3201234567",
-    "correo": "marta.diaz@telecam.net",
-    "direccion": "Av. 27 #56-78",
+    "nombre": "Diego Ramírez",
+    "cedula": "1078901234",
+    "telefono": "3186789012",
+    "correo": "diego.ramirez@telecam.net",
+    "direccion": "Avenida 45 #50-60",
+    "ciudad": "Floridablanca",
+    "plan_actual": "TV Premium",
+    "fecha_registro": "2023-12-22"
+  },
+  {
+    "nombre": "Sofía Gómez",
+    "cedula": "1089012345",
+    "telefono": "3147890123",
+    "correo": "sofia.gomez@gmail.com",
+    "direccion": "Carrera 5 #10-15",
+    "ciudad": "Girón",
+    "plan_actual": "Telefonía fija",
+    "fecha_registro": "2024-04-05"
+  },
+  {
+    "nombre": "Andrés López",
+    "cedula": "1090123456",
+    "telefono": "3198901234",
+    "correo": "andres.lopez@hotmail.com",
+    "direccion": "Calle 35 #45-55",
+    "ciudad": "Piedecuesta",
+    "plan_actual": "Internet Empresarial 500MB",
+    "fecha_registro": "2023-09-28"
+  },
+  {
+    "nombre": "Carolina Torres",
+    "cedula": "1101234567",
+    "telefono": "3129012345",
+    "correo": "carolina.torres@telecam.net",
+    "direccion": "Avenida 20 #25-35",
+    "ciudad": "Bucaramanga",
+    "plan_actual": "Plan Básico Dobleplay",
+    "fecha_registro": "2024-01-30"
+  },
+  {
+    "nombre": "Ricardo Díaz",
+    "cedula": "1112345678",
+    "telefono": "3160123456",
+    "correo": "ricardo.diaz@gmail.com",
+    "direccion": "Carrera 25 #30-45",
+    "ciudad": "Floridablanca",
+    "plan_actual": "Plan Familiar Dobleplay",
+    "fecha_registro": "2023-11-15"
+  },
+  {
+    "nombre": "Patricia Herrera",
+    "cedula": "1123456789",
+    "telefono": "3151234567",
+    "correo": "patricia.herrera@outlook.com",
+    "direccion": "Calle 40 #50-60",
+    "ciudad": "Girón",
+    "plan_actual": "Internet 100MB",
+    "fecha_registro": "2024-03-25"
+  },
+  {
+    "nombre": "Fernando Castro",
+    "cedula": "1134567890",
+    "telefono": "3202345678",
+    "correo": "fernando.castro@telecam.net",
+    "direccion": "Avenida 10 #15-25",
     "ciudad": "Piedecuesta",
     "plan_actual": "Tripleplay 150MB",
-    "fecha_registro": "2023-09-30"
+    "fecha_registro": "2023-10-10"
   },
   {
-    "nombre": "David López",
-    "cedula": "1098761234",
-    "telefono": "3147654321",
-    "correo": "david.lopez@hotmail.com",
-    "direccion": "Cra 9 #18-45",
-    "ciudad": "Floridablanca",
-    "plan_actual": "Internet 100MB",
-    "fecha_registro": "2023-12-20"
-  },
-  {
-    "nombre": "Sofía Martínez",
-    "cedula": "1092837465",
-    "telefono": "3167895432",
-    "correo": "sofia.martinez@telecam.net",
-    "direccion": "Calle 12 #10-22",
+    "nombre": "Gabriela Rojas",
+    "cedula": "1145678901",
+    "telefono": "3173456789",
+    "correo": "gabriela.rojas@gmail.com",
+    "direccion": "Carrera 30 #35-45",
     "ciudad": "Bucaramanga",
+    "plan_actual": "TV HD Básico",
+    "fecha_registro": "2024-02-05"
+  },
+  {
+    "nombre": "Héctor Mendoza",
+    "cedula": "1156789012",
+    "telefono": "3104567890",
+    "correo": "hector.mendoza@hotmail.com",
+    "direccion": "Calle 15 #20-30",
+    "ciudad": "Floridablanca",
+    "plan_actual": "Internet 200MB",
+    "fecha_registro": "2023-12-18"
+  },
+  {
+    "nombre": "Adriana Silva",
+    "cedula": "1167890123",
+    "telefono": "3135678901",
+    "correo": "adriana.silva@telecam.net",
+    "direccion": "Avenida 25 #30-40",
+    "ciudad": "Girón",
+    "plan_actual": "Tripleplay 300MB",
+    "fecha_registro": "2024-04-12"
+  },
+  {
+    "nombre": "Oscar Peña",
+    "cedula": "1178901234",
+    "telefono": "3186789012",
+    "correo": "oscar.pena@gmail.com",
+    "direccion": "Carrera 20 #25-35",
+    "ciudad": "Piedecuesta",
     "plan_actual": "TV Premium",
+    "fecha_registro": "2023-11-30"
+  },
+  {
+    "nombre": "Claudia Vargas",
+    "cedula": "1189012345",
+    "telefono": "3147890123",
+    "correo": "claudia.vargas@outlook.com",
+    "direccion": "Calle 30 #40-50",
+    "ciudad": "Bucaramanga",
+    "plan_actual": "Telefonía fija",
+    "fecha_registro": "2024-01-25"
+  },
+  {
+    "nombre": "Mauricio Núñez",
+    "cedula": "1190123456",
+    "telefono": "3198901234",
+    "correo": "mauricio.nunez@telecam.net",
+    "direccion": "Avenida 35 #45-55",
+    "ciudad": "Floridablanca",
+    "plan_actual": "Internet Empresarial 500MB",
+    "fecha_registro": "2023-10-05"
+  },
+  {
+    "nombre": "Daniela Jiménez",
+    "cedula": "1201234567",
+    "telefono": "3129012345",
+    "correo": "daniela.jimenez@gmail.com",
+    "direccion": "Carrera 10 #15-25",
+    "ciudad": "Girón",
+    "plan_actual": "Plan Básico Dobleplay",
+    "fecha_registro": "2024-03-15"
+  },
+  {
+    "nombre": "Javier Ruiz",
+    "cedula": "1212345678",
+    "telefono": "3160123456",
+    "correo": "javier.ruiz@hotmail.com",
+    "direccion": "Calle 25 #35-45",
+    "ciudad": "Piedecuesta",
+    "plan_actual": "Plan Familiar Dobleplay",
+    "fecha_registro": "2023-12-10"
+  },
+  {
+    "nombre": "Valeria Castro",
+    "cedula": "1223456789",
+    "telefono": "3151234567",
+    "correo": "valeria.castro@telecam.net",
+    "direccion": "Avenida 40 #50-60",
+    "ciudad": "Bucaramanga",
+    "plan_actual": "Internet 100MB",
+    "fecha_registro": "2024-02-28"
+  },
+  {
+    "nombre": "Roberto Herrera",
+    "cedula": "1234567890",
+    "telefono": "3202345678",
+    "correo": "roberto.herrera@gmail.com",
+    "direccion": "Carrera 15 #20-30",
+    "ciudad": "Floridablanca",
+    "plan_actual": "Tripleplay 150MB",
+    "fecha_registro": "2023-11-20"
+  },
+  {
+    "nombre": "Isabel Ríos",
+    "cedula": "1245678901",
+    "telefono": "3173456789",
+    "correo": "isabel.rios@outlook.com",
+    "direccion": "Calle 20 #30-40",
+    "ciudad": "Girón",
+    "plan_actual": "TV HD Básico",
+    "fecha_registro": "2024-04-08"
+  },
+  {
+    "nombre": "Gustavo Mora",
+    "cedula": "1256789012",
+    "telefono": "3104567890",
+    "correo": "gustavo.mora@telecam.net",
+    "direccion": "Avenida 25 #35-45",
+    "ciudad": "Piedecuesta",
+    "plan_actual": "Internet 200MB",
+    "fecha_registro": "2023-10-25"
+  },
+  {
+    "nombre": "Natalia Guzmán",
+    "cedula": "1267890123",
+    "telefono": "3135678901",
+    "correo": "natalia.guzman@gmail.com",
+    "direccion": "Carrera 30 #40-50",
+    "ciudad": "Bucaramanga",
+    "plan_actual": "Tripleplay 300MB",
     "fecha_registro": "2024-01-15"
   },
   {
-    "nombre": "Julián Castro",
-    "cedula": "1102837462",
-    "telefono": "3109871234",
-    "correo": "julian.castro@gmail.com",
-    "direccion": "Cra 25 #30-16",
+    "nombre": "Felipe Cordero",
+    "cedula": "1278901234",
+    "telefono": "3186789012",
+    "correo": "felipe.cordero@hotmail.com",
+    "direccion": "Calle 35 #45-55",
+    "ciudad": "Floridablanca",
+    "plan_actual": "TV Premium",
+    "fecha_registro": "2023-12-05"
+  },
+  {
+    "nombre": "Marcela Soto",
+    "cedula": "1289012345",
+    "telefono": "3147890123",
+    "correo": "marcela.soto@telecam.net",
+    "direccion": "Avenida 10 #15-25",
     "ciudad": "Girón",
     "plan_actual": "Telefonía fija",
-    "fecha_registro": "2023-10-11"
+    "fecha_registro": "2024-03-20"
   },
   {
-    "nombre": "Luisa Méndez",
-    "cedula": "1093482736",
-    "telefono": "3114567890",
-    "correo": "luisa.mendez@gmail.com",
-    "direccion": "Calle 40 #50-10",
+    "nombre": "Raúl Méndez",
+    "cedula": "1290123456",
+    "telefono": "3198901234",
+    "correo": "raul.mendez@gmail.com",
+    "direccion": "Carrera 20 #25-35",
     "ciudad": "Piedecuesta",
-    "plan_actual": "Tripleplay 150MB",
-    "fecha_registro": "2024-04-07"
+    "plan_actual": "Internet Empresarial 500MB",
+    "fecha_registro": "2023-11-10"
   },
   {
-    "nombre": "Camilo Vargas",
-    "cedula": "1102738495",
-    "telefono": "3138765432",
-    "correo": "camilo.vargas@telecam.net",
-    "direccion": "Av. La Rosita #20-55",
+    "nombre": "Verónica Paredes",
+    "cedula": "1301234567",
+    "telefono": "3129012345",
+    "correo": "veronica.paredes@outlook.com",
+    "direccion": "Calle 30 #40-50",
     "ciudad": "Bucaramanga",
-    "plan_actual": "Internet 200MB",
-    "fecha_registro": "2024-05-03"
+    "plan_actual": "Plan Básico Dobleplay",
+    "fecha_registro": "2024-02-10"
+  },
+  {
+    "nombre": "Arturo León",
+    "cedula": "1312345678",
+    "telefono": "3160123456",
+    "correo": "arturo.leon@telecam.net",
+    "direccion": "Avenida 15 #20-30",
+    "ciudad": "Floridablanca",
+    "plan_actual": "Plan Familiar Dobleplay",
+    "fecha_registro": "2023-10-30"
   }
 ]

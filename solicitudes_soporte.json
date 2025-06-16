@@ -1,82 +1,332 @@
 [
   {
-    "id_cliente": "1098456123",
+    "id_solicitud": "SOP-0001",
+    "id_cliente": "1023456789",
     "fecha": "2024-06-01",
-    "descripcion": "El internet se cae constantemente desde el fin de semana.",
+    "descripcion": "El internet se cae constantemente desde el fin de semana",
     "estado": "pendiente",
     "tipo": "fallas de conexión",
-    "zona": "Norte - Bucaramanga"
+    "zona": "Norte - Bucaramanga",
+    "prioridad": "alta",
+    "tecnico_asignado": null
   },
   {
-    "id_cliente": "1087569345",
+    "id_solicitud": "SOP-0002",
+    "id_cliente": "1034567890",
     "fecha": "2024-05-28",
-    "descripcion": "No tengo señal en la televisión desde ayer por la tarde.",
+    "descripcion": "No tengo señal en la televisión desde ayer por la tarde",
     "estado": "en proceso",
     "tipo": "problemas con TV",
-    "zona": "Sur - Floridablanca"
+    "zona": "Sur - Floridablanca",
+    "prioridad": "media",
+    "tecnico_asignado": "1092837464"
   },
   {
-    "id_cliente": "1093827465",
+    "id_solicitud": "SOP-0003",
+    "id_cliente": "1045678901",
     "fecha": "2024-05-30",
-    "descripcion": "Mi router no enciende, ya intenté reiniciarlo varias veces.",
+    "descripcion": "Mi router no enciende, ya intenté reiniciarlo varias veces",
     "estado": "pendiente",
     "tipo": "router dañado",
-    "zona": "Centro - Girón"
+    "zona": "Centro - Girón",
+    "prioridad": "alta",
+    "tecnico_asignado": null
   },
   {
-    "id_cliente": "1092736451",
+    "id_solicitud": "SOP-0004",
+    "id_cliente": "1056789012",
     "fecha": "2024-05-25",
-    "descripcion": "El internet está muy lento en horas de la noche.",
+    "descripcion": "El internet está muy lento en horas de la noche",
     "estado": "resuelto",
     "tipo": "baja velocidad",
-    "zona": "Occidente - Bucaramanga"
+    "zona": "Occidente - Bucaramanga",
+    "prioridad": "baja",
+    "tecnico_asignado": "1234567890"
   },
   {
-    "id_cliente": "1109876543",
+    "id_solicitud": "SOP-0005",
+    "id_cliente": "1067890123",
     "fecha": "2024-05-29",
-    "descripcion": "Falla total en el servicio de telefonía desde hace dos días.",
+    "descripcion": "Falla total en el servicio de telefonía desde hace dos días",
     "estado": "pendiente",
     "tipo": "sin telefonía",
-    "zona": "Norte - Piedecuesta"
+    "zona": "Norte - Piedecuesta",
+    "prioridad": "alta",
+    "tecnico_asignado": null
   },
   {
-    "id_cliente": "1098761234",
+    "id_solicitud": "SOP-0006",
+    "id_cliente": "1078901234",
     "fecha": "2024-05-31",
-    "descripcion": "Cortes intermitentes en la señal del televisor.",
+    "descripcion": "Cortes intermitentes en la señal del televisor",
     "estado": "en proceso",
     "tipo": "problemas con TV",
-    "zona": "Sur - Floridablanca"
+    "zona": "Sur - Floridablanca",
+    "prioridad": "media",
+    "tecnico_asignado": "1102938475"
   },
   {
-    "id_cliente": "1092837465",
+    "id_solicitud": "SOP-0007",
+    "id_cliente": "1089012345",
     "fecha": "2024-06-02",
-    "descripcion": "El módem hace ruido y se calienta demasiado.",
+    "descripcion": "El módem hace ruido y se calienta demasiado",
     "estado": "pendiente",
     "tipo": "equipos defectuosos",
-    "zona": "Centro - Bucaramanga"
+    "zona": "Centro - Bucaramanga",
+    "prioridad": "alta",
+    "tecnico_asignado": null
   },
   {
-    "id_cliente": "1102837462",
+    "id_solicitud": "SOP-0008",
+    "id_cliente": "1090123456",
     "fecha": "2024-05-27",
-    "descripcion": "Sin internet ni televisión desde el apagón del lunes.",
+    "descripcion": "Sin internet ni televisión desde el apagón del lunes",
     "estado": "resuelto",
     "tipo": "servicio interrumpido",
-    "zona": "Oriente - Girón"
+    "zona": "Oriente - Girón",
+    "prioridad": "urgente",
+    "tecnico_asignado": "1102837466"
   },
   {
-    "id_cliente": "1093482736",
+    "id_solicitud": "SOP-0009",
+    "id_cliente": "1101234567",
     "fecha": "2024-06-03",
-    "descripcion": "El cableado en la fachada está colgando.",
+    "descripcion": "El cableado en la fachada está colgando",
     "estado": "pendiente",
     "tipo": "problemas técnicos",
-    "zona": "Centro - Piedecuesta"
+    "zona": "Centro - Piedecuesta",
+    "prioridad": "media",
+    "tecnico_asignado": null
   },
   {
-    "id_cliente": "1102738495",
+    "id_solicitud": "SOP-0010",
+    "id_cliente": "1112345678",
     "fecha": "2024-06-01",
-    "descripcion": "Interrupciones constantes en la señal de internet por cable.",
+    "descripcion": "Interrupciones constantes en la señal de internet por cable",
     "estado": "en proceso",
     "tipo": "intermitencia",
-    "zona": "Norte - Bucaramanga"
+    "zona": "Norte - Bucaramanga",
+    "prioridad": "alta",
+    "tecnico_asignado": "1098472634"
+  },
+  {
+    "id_solicitud": "SOP-0011",
+    "id_cliente": "1123456789",
+    "fecha": "2024-05-30",
+    "descripcion": "No puedo hacer llamadas internacionales aunque tengo el plan",
+    "estado": "pendiente",
+    "tipo": "problemas con telefonía",
+    "zona": "Sur - Floridablanca",
+    "prioridad": "media",
+    "tecnico_asignado": null
+  },
+  {
+    "id_solicitud": "SOP-0012",
+    "id_cliente": "1134567890",
+    "fecha": "2024-06-04",
+    "descripcion": "Pixelación constante en los canales de deportes",
+    "estado": "en proceso",
+    "tipo": "calidad de TV",
+    "zona": "Centro - Girón",
+    "prioridad": "baja",
+    "tecnico_asignado": "1102387465"
+  },
+  {
+    "id_solicitud": "SOP-0013",
+    "id_cliente": "1145678901",
+    "fecha": "2024-05-26",
+    "descripcion": "Velocidad de internet muy por debajo de lo contratado",
+    "estado": "resuelto",
+    "tipo": "baja velocidad",
+    "zona": "Occidente - Bucaramanga",
+    "prioridad": "alta",
+    "tecnico_asignado": "1234567890"
+  },
+  {
+    "id_solicitud": "SOP-0014",
+    "id_cliente": "1156789012",
+    "fecha": "2024-06-05",
+    "descripcion": "Decodificador no responde al control remoto",
+    "estado": "pendiente",
+    "tipo": "equipos defectuosos",
+    "zona": "Norte - Piedecuesta",
+    "prioridad": "media",
+    "tecnico_asignado": null
+  },
+  {
+    "id_solicitud": "SOP-0015",
+    "id_cliente": "1167890123",
+    "fecha": "2024-05-29",
+    "descripcion": "Factura incorrecta con cobros no autorizados",
+    "estado": "resuelto",
+    "tipo": "facturación",
+    "zona": "Oriente - Girón",
+    "prioridad": "alta",
+    "tecnico_asignado": null
+  },
+  {
+    "id_solicitud": "SOP-0016",
+    "id_cliente": "1178901234",
+    "fecha": "2024-06-06",
+    "descripcion": "Señal de TV desapareció después de tormenta eléctrica",
+    "estado": "en proceso",
+    "tipo": "problemas con TV",
+    "zona": "Centro - Piedecuesta",
+    "prioridad": "alta",
+    "tecnico_asignado": "1102938475"
+  },
+  {
+    "id_solicitud": "SOP-0017",
+    "id_cliente": "1189012345",
+    "fecha": "2024-06-02",
+    "descripcion": "Ruido en la línea telefónica que impide llamadas claras",
+    "estado": "pendiente",
+    "tipo": "calidad de telefonía",
+    "zona": "Norte - Bucaramanga",
+    "prioridad": "media",
+    "tecnico_asignado": null
+  },
+  {
+    "id_solicitud": "SOP-0018",
+    "id_cliente": "1190123456",
+    "fecha": "2024-05-28",
+    "descripcion": "Internet se desconecta cada 30 minutos exactamente",
+    "estado": "resuelto",
+    "tipo": "fallas de conexión",
+    "zona": "Sur - Floridablanca",
+    "prioridad": "alta",
+    "tecnico_asignado": "1092837464"
+  },
+  {
+    "id_solicitud": "SOP-0019",
+    "id_cliente": "1201234567",
+    "fecha": "2024-06-07",
+    "descripcion": "Necesito cambiar el router por uno más moderno",
+    "estado": "pendiente",
+    "tipo": "actualización de equipo",
+    "zona": "Centro - Girón",
+    "prioridad": "baja",
+    "tecnico_asignado": null
+  },
+  {
+    "id_solicitud": "SOP-0020",
+    "id_cliente": "1212345678",
+    "fecha": "2024-05-31",
+    "descripcion": "Falta canal deportivo que debería estar incluido en mi paquete",
+    "estado": "en proceso",
+    "tipo": "configuración TV",
+    "zona": "Occidente - Bucaramanga",
+    "prioridad": "baja",
+    "tecnico_asignado": "1102387465"
+  },
+  {
+    "id_solicitud": "SOP-0021",
+    "id_cliente": "1223456789",
+    "fecha": "2024-06-08",
+    "descripcion": "Lentitud extrema al cargar videos en redes sociales",
+    "estado": "pendiente",
+    "tipo": "baja velocidad",
+    "zona": "Norte - Piedecuesta",
+    "prioridad": "media",
+    "tecnico_asignado": null
+  },
+  {
+    "id_solicitud": "SOP-0022",
+    "id_cliente": "1234567890",
+    "fecha": "2024-06-03",
+    "descripcion": "Decodificador muestra mensaje de error E-504 constantemente",
+    "estado": "en proceso",
+    "tipo": "equipos defectuosos",
+    "zona": "Oriente - Girón",
+    "prioridad": "media",
+    "tecnico_asignado": "1102837466"
+  },
+  {
+    "id_solicitud": "SOP-0023",
+    "id_cliente": "1245678901",
+    "fecha": "2024-05-27",
+    "descripcion": "Cable de fibra óptica dañado por obra en la calle",
+    "estado": "resuelto",
+    "tipo": "daño en infraestructura",
+    "zona": "Centro - Piedecuesta",
+    "prioridad": "urgente",
+    "tecnico_asignado": "1098472634"
+  },
+  {
+    "id_solicitud": "SOP-0024",
+    "id_cliente": "1256789012",
+    "fecha": "2024-06-09",
+    "descripcion": "No puedo acceder a mi correo @telecam.net desde el móvil",
+    "estado": "pendiente",
+    "tipo": "problemas con correo",
+    "zona": "Norte - Bucaramanga",
+    "prioridad": "baja",
+    "tecnico_asignado": null
+  },
+  {
+    "id_solicitud": "SOP-0025",
+    "id_cliente": "1267890123",
+    "fecha": "2024-06-04",
+    "descripcion": "Actualización de firmware causó problemas en el router",
+    "estado": "en proceso",
+    "tipo": "configuración router",
+    "zona": "Sur - Floridablanca",
+    "prioridad": "alta",
+    "tecnico_asignado": "1092837464"
+  },
+  {
+    "id_solicitud": "SOP-0026",
+    "id_cliente": "1278901234",
+    "fecha": "2024-05-29",
+    "descripcion": "Cambio de domicilio y traslado de servicios",
+    "estado": "pendiente",
+    "tipo": "traslado de servicio",
+    "zona": "Centro - Girón",
+    "prioridad": "media",
+    "tecnico_asignado": null
+  },
+  {
+    "id_solicitud": "SOP-0027",
+    "id_cliente": "1289012345",
+    "fecha": "2024-06-10",
+    "descripcion": "Solicito instalación de toma adicional para TV en otra habitación",
+    "estado": "pendiente",
+    "tipo": "instalación adicional",
+    "zona": "Occidente - Bucaramanga",
+    "prioridad": "baja",
+    "tecnico_asignado": null
+  },
+  {
+    "id_solicitud": "SOP-0028",
+    "id_cliente": "1290123456",
+    "fecha": "2024-06-05",
+    "descripcion": "Problemas de autenticación al conectarse a la red WiFi",
+    "estado": "en proceso",
+    "tipo": "problemas WiFi",
+    "zona": "Norte - Piedecuesta",
+    "prioridad": "media",
+    "tecnico_asignado": "1234567890"
+  },
+  {
+    "id_solicitud": "SOP-0029",
+    "id_cliente": "1301234567",
+    "fecha": "2024-05-30",
+    "descripcion": "Cobro recurrente no autorizado en mi tarjeta de crédito",
+    "estado": "resuelto",
+    "tipo": "facturación",
+    "zona": "Oriente - Girón",
+    "prioridad": "alta",
+    "tecnico_asignado": null
+  },
+  {
+    "id_solicitud": "SOP-0030",
+    "id_cliente": "1312345678",
+    "fecha": "2024-06-11",
+    "descripcion": "Quiero mejorar mi plan actual a uno con mayor velocidad",
+    "estado": "pendiente",
+    "tipo": "cambio de plan",
+    "zona": "Centro - Piedecuesta",
+    "prioridad": "baja",
+    "tecnico_asignado": null
   }
 ]

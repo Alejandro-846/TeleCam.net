@@ -1,82 +1,302 @@
 [
   {
     "nombre_plan": "Internet 100MB",
-    "descripcion": "Servicio de internet de 100 megas con router incluido.",
+    "descripcion": "Servicio de internet de 100 megas con router incluido",
     "tipo": "Internet",
     "velocidad": "100MB",
     "precio": 64900,
-    "estado": "activo"
+    "estado": "activo",
+    "canales": null,
+    "minutos": null
   },
   {
     "nombre_plan": "Internet 200MB",
-    "descripcion": "Internet de alta velocidad para hogares con múltiples dispositivos.",
+    "descripcion": "Internet de alta velocidad para hogares con múltiples dispositivos",
     "tipo": "Internet",
     "velocidad": "200MB",
     "precio": 84900,
-    "estado": "activo"
+    "estado": "activo",
+    "canales": null,
+    "minutos": null
   },
   {
     "nombre_plan": "Tripleplay 150MB",
-    "descripcion": "Internet, televisión y telefonía fija. Plan familiar ideal.",
+    "descripcion": "Internet, televisión y telefonía fija. Plan familiar ideal",
     "tipo": "Tripleplay",
     "velocidad": "150MB",
     "precio": 109900,
-    "estado": "activo"
+    "estado": "activo",
+    "canales": 80,
+    "minutos": "Ilimitados"
   },
   {
     "nombre_plan": "Tripleplay 300MB",
-    "descripcion": "Plan completo con TV HD, telefonía fija e internet de 300MB.",
+    "descripcion": "Plan completo con TV HD, telefonía fija e internet de 300MB",
     "tipo": "Tripleplay",
     "velocidad": "300MB",
     "precio": 129900,
-    "estado": "activo"
+    "estado": "activo",
+    "canales": 120,
+    "minutos": "Ilimitados"
   },
   {
     "nombre_plan": "TV HD Básico",
-    "descripcion": "40 canales nacionales e internacionales en HD.",
+    "descripcion": "40 canales nacionales e internacionales en HD",
     "tipo": "Televisión",
     "velocidad": null,
     "precio": 45900,
-    "estado": "activo"
+    "estado": "activo",
+    "canales": 40,
+    "minutos": null
   },
   {
     "nombre_plan": "TV Premium",
-    "descripcion": "Más de 90 canales, incluyendo películas, deportes y series.",
+    "descripcion": "Más de 90 canales, incluyendo películas, deportes y series",
     "tipo": "Televisión",
     "velocidad": null,
     "precio": 78900,
-    "estado": "activo"
+    "estado": "activo",
+    "canales": 90,
+    "minutos": null
   },
   {
     "nombre_plan": "Telefonía Fija Ilimitada",
-    "descripcion": "Llamadas ilimitadas a todo el país con identificador de llamadas.",
+    "descripcion": "Llamadas ilimitadas a todo el país con identificador de llamadas",
     "tipo": "Telefonía",
     "velocidad": null,
     "precio": 34900,
-    "estado": "activo"
+    "estado": "activo",
+    "canales": null,
+    "minutos": "Ilimitados"
   },
   {
     "nombre_plan": "Internet Empresarial 500MB",
-    "descripcion": "Conexión dedicada para empresas con soporte 24/7.",
+    "descripcion": "Conexión dedicada para empresas con soporte 24/7",
     "tipo": "Internet",
     "velocidad": "500MB",
     "precio": 189000,
-    "estado": "activo"
+    "estado": "activo",
+    "canales": null,
+    "minutos": null
   },
   {
     "nombre_plan": "Plan Básico Dobleplay",
-    "descripcion": "Incluye internet 100MB y telefonía fija a buen precio.",
+    "descripcion": "Incluye internet 100MB y telefonía fija a buen precio",
     "tipo": "Dobleplay",
     "velocidad": "100MB",
     "precio": 89900,
-    "estado": "activo"
+    "estado": "activo",
+    "canales": null,
+    "minutos": "Ilimitados"
   },
   {
     "nombre_plan": "Plan Familiar Dobleplay",
-    "descripcion": "Internet 200MB + TV HD Básico para toda la familia.",
+    "descripcion": "Internet 200MB + TV HD Básico para toda la familia",
     "tipo": "Dobleplay",
     "velocidad": "200MB",
     "precio": 102900,
-    "estado": "activo"
+    "estado": "activo",
+    "canales": 40,
+    "minutos": null
+  },
+  {
+    "nombre_plan": "Internet 50MB",
+    "descripcion": "Plan económico de internet para uso básico",
+    "tipo": "Internet",
+    "velocidad": "50MB",
+    "precio": 49900,
+    "estado": "activo",
+    "canales": null,
+    "minutos": null
+  },
+  {
+    "nombre_plan": "TV Familiar",
+    "descripcion": "60 canales con opción parental y paquetes infantiles",
+    "tipo": "Televisión",
+    "velocidad": null,
+    "precio": 65900,
+    "estado": "activo",
+    "canales": 60,
+    "minutos": null
+  },
+  {
+    "nombre_plan": "Tripleplay 100MB",
+    "descripcion": "Plan básico triple con internet de 100MB",
+    "tipo": "Tripleplay",
+    "velocidad": "100MB",
+    "precio": 99900,
+    "estado": "activo",
+    "canales": 60,
+    "minutos": "Ilimitados"
+  },
+  {
+    "nombre_plan": "Internet 1GB",
+    "descripcion": "Internet ultra rápido para gamers y teletrabajo",
+    "tipo": "Internet",
+    "velocidad": "1GB",
+    "precio": 199900,
+    "estado": "activo",
+    "canales": null,
+    "minutos": null
+  },
+  {
+    "nombre_plan": "TV Deportes",
+    "descripcion": "Paquete especializado en canales deportivos",
+    "tipo": "Televisión",
+    "velocidad": null,
+    "precio": 72900,
+    "estado": "activo",
+    "canales": 35,
+    "minutos": null
+  },
+  {
+    "nombre_plan": "Telefonía Móvil",
+    "descripcion": "Plan de datos móviles con 10GB y minutos ilimitados",
+    "tipo": "Telefonía",
+    "velocidad": "10GB",
+    "precio": 59900,
+    "estado": "activo",
+    "canales": null,
+    "minutos": "Ilimitados"
+  },
+  {
+    "nombre_plan": "Plan Senior",
+    "descripcion": "Oferta especial para adultos mayores con TV y telefonía",
+    "tipo": "Dobleplay",
+    "velocidad": null,
+    "precio": 75900,
+    "estado": "activo",
+    "canales": 50,
+    "minutos": "Ilimitados"
+  },
+  {
+    "nombre_plan": "Internet Nocturno",
+    "descripcion": "Internet ilimitado de 8pm a 6am + 50MB todo el día",
+    "tipo": "Internet",
+    "velocidad": "50MB+",
+    "precio": 54900,
+    "estado": "activo",
+    "canales": null,
+    "minutos": null
+  },
+  {
+    "nombre_plan": "TV 4K",
+    "descripcion": "Señal en ultra alta definición con 30 canales 4K",
+    "tipo": "Televisión",
+    "velocidad": null,
+    "precio": 89900,
+    "estado": "activo",
+    "canales": 30,
+    "minutos": null
+  },
+  {
+    "nombre_plan": "Tripleplay Empresarial",
+    "descripcion": "Plan completo para pequeñas empresas con IP fija",
+    "tipo": "Tripleplay",
+    "velocidad": "300MB",
+    "precio": 229900,
+    "estado": "activo",
+    "canales": 90,
+    "minutos": "Ilimitados"
+  },
+  {
+    "nombre_plan": "Internet Estudiantil",
+    "descripcion": "50% de descuento en internet 100MB para estudiantes",
+    "tipo": "Internet",
+    "velocidad": "100MB",
+    "precio": 32450,
+    "estado": "activo",
+    "canales": null,
+    "minutos": null
+  },
+  {
+    "nombre_plan": "TV Internacional",
+    "descripcion": "Paquete con canales de Europa, Asia y América",
+    "tipo": "Televisión",
+    "velocidad": null,
+    "precio": 85900,
+    "estado": "activo",
+    "canales": 45,
+    "minutos": null
+  },
+  {
+    "nombre_plan": "Telefonía Internacional",
+    "descripcion": "300 minutos a 20 países + llamadas locales ilimitadas",
+    "tipo": "Telefonía",
+    "velocidad": null,
+    "precio": 65900,
+    "estado": "activo",
+    "canales": null,
+    "minutos": 300
+  },
+  {
+    "nombre_plan": "Dobleplay Premium",
+    "descripcion": "Internet 300MB + TV Premium sin telefonía",
+    "tipo": "Dobleplay",
+    "velocidad": "300MB",
+    "precio": 139900,
+    "estado": "activo",
+    "canales": 90,
+    "minutos": null
+  },
+  {
+    "nombre_plan": "Internet Rural",
+    "descripcion": "Cobertura especial para zonas rurales (30MB)",
+    "tipo": "Internet",
+    "velocidad": "30MB",
+    "precio": 59900,
+    "estado": "activo",
+    "canales": null,
+    "minutos": null
+  },
+  {
+    "nombre_plan": "TV + Streaming",
+    "descripcion": "TV tradicional + 3 plataformas de streaming incluidas",
+    "tipo": "Televisión",
+    "velocidad": null,
+    "precio": 99900,
+    "estado": "activo",
+    "canales": 70,
+    "minutos": null
+  },
+  {
+    "nombre_plan": "Plan Parejas",
+    "descripcion": "2 líneas móviles + internet 200MB para el hogar",
+    "tipo": "Combo",
+    "velocidad": "200MB",
+    "precio": 149900,
+    "estado": "activo",
+    "canales": null,
+    "minutos": "Ilimitados"
+  },
+  {
+    "nombre_plan": "Internet por Horas",
+    "descripcion": "Paquete flexible de internet por horas consumidas",
+    "tipo": "Internet",
+    "velocidad": "100MB",
+    "precio": 15000,
+    "estado": "activo",
+    "canales": null,
+    "minutos": null
+  },
+  {
+    "nombre_plan": "TV Noticias",
+    "descripcion": "Paquete especializado en canales informativos 24/7",
+    "tipo": "Televisión",
+    "velocidad": null,
+    "precio": 48900,
+    "estado": "activo",
+    "canales": 25,
+    "minutos": null
+  },
+  {
+    "nombre_plan": "Plan Todo Incluido",
+    "descripcion": "Tripleplay 500MB + 4 líneas móviles + streaming",
+    "tipo": "Combo",
+    "velocidad": "500MB",
+    "precio": 299900,
+    "estado": "activo",
+    "canales": 120,
+    "minutos": "Ilimitados"
   }
 ]
